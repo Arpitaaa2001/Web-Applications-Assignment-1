@@ -3,4 +3,44 @@
     display: flex;
     flex-direction: row;
     align-items: flex-start;
+    margin-bottom: 25px;
+}
+
+.weeknumber{
+    margin-right: 40px;
+    background-color: rgba(214, 210, 210, 0.925);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.topic{
+    font-size: 20px;
+}
+
+.buttongroup{
+    margin-top: 13px;
+}
+
+.slide{
+    background-color: rgb(186, 186, 248);
+}
+
+.starter{
+    background-color: lightskyblue;
+}
+
+.checkoff{
+    background-color: lightcoral;
+}
+
+.sol{
+    background-color: palegreen;
+}
+
+button {
+    margin-right: 10px;
+    text-decoration: underline;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
 }
